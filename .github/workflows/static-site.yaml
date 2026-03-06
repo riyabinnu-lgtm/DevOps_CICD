@@ -1,7 +1,7 @@
 name: CI/CD for Static Site with GitHub Pages
 
 on:
-  push:
+  push
     branches: [ main ]
   pull_request:
     branches: [ main ]
